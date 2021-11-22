@@ -1,0 +1,12 @@
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.deps.json
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\bin\Debug\net5.0\ref\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.AssemblyInfo.cs
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\ref\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic.Interfaces\obj\Debug\net5.0\Competition.BusinessLogic.Interfaces.pdb

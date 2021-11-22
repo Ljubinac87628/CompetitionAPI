@@ -1,0 +1,12 @@
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\bin\Debug\net5.0\Competition.Services.deps.json
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\bin\Debug\net5.0\Competition.Services.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\bin\Debug\net5.0\ref\Competition.Services.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\bin\Debug\net5.0\Competition.Services.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.AssemblyInfo.cs
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\ref\Competition.Services.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.Services\obj\Debug\net5.0\Competition.Services.pdb

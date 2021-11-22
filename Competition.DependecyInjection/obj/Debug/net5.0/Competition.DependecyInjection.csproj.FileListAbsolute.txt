@@ -1,0 +1,17 @@
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.DependecyInjection.deps.json
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.DependecyInjection.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\ref\Competition.DependecyInjection.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.DependecyInjection.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.BusinessLogic.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\bin\Debug\net5.0\Competition.BusinessLogic.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.AssemblyInfo.cs
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.csproj.CopyComplete
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\ref\Competition.DependecyInjection.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.DependecyInjection\obj\Debug\net5.0\Competition.DependecyInjection.pdb

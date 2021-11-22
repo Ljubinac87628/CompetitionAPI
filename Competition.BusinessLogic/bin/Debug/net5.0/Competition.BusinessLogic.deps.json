@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Competition.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "Competition.BusinessLogic.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Competition.BusinessLogic.dll": {}
+        }
+      },
+      "Competition.BusinessLogic.Interfaces/1.0.0": {
+        "runtime": {
+          "Competition.BusinessLogic.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Competition.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Competition.BusinessLogic.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

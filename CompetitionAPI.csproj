@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Competition.BusinessLogic.Interfaces\Competition.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="Competition.DependecyInjection\Competition.DependecyInjection.csproj" />
+    <ProjectReference Include="Competition.Mapper\Competition.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

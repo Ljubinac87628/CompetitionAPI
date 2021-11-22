@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtEnhQh/YJ1tXgYDmesdzM8FCi7HAyb/+I7BRs+QcVCuNch4rv0SxXJY5E5PZBxZk28azizUbxqOJgCsdMij7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milos\\source\\repos\\CompetitionAPI\\src\\CompetitionAPI\\Competition.DependecyInjection\\Competition.DependecyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Milos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Milos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\Competition.BusinessLogic.deps.json
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\Competition.BusinessLogic.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\ref\Competition.BusinessLogic.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\Competition.BusinessLogic.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\bin\Debug\net5.0\Competition.BusinessLogic.Interfaces.pdb
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.AssemblyInfo.cs
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.csproj.CopyComplete
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\ref\Competition.BusinessLogic.dll
+C:\Users\Milos\source\repos\CompetitionAPI\src\CompetitionAPI\Competition.BusinessLogic\obj\Debug\net5.0\Competition.BusinessLogic.pdb
